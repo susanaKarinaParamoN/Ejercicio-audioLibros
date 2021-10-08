@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragmentos Dinamicos (Español)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">hOLA BLANCO Fragnebto</string>
+    <string name="fragmento_detalle_title">
+        Esto es un fragmento detalle</string>
+
+    <string-array name="generos">
+        <item>Ciencia ficcion</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romantica</item>
+    </string-array>
+
+
+
+</resources>
